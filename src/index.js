@@ -1,7 +1,8 @@
 import "./css/base.css";
 
-import { checkTaskList, sayHello } from "./js/utils";
+import { checkTaskList, newTask, sayHello } from "./js/utils";
 
 console.log(sayHello("Hello"));
 
 checkTaskList();
+newTask();
