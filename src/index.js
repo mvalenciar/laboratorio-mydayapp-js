@@ -1,6 +1,6 @@
 import "./css/base.css";
 
-import { checkTaskList, newTask, sayHello } from "./js/utils";
+import { checkTask, checkTaskList, newTask, sayHello } from "./js/utils";
 
 console.log(sayHello("Hello"));
 
